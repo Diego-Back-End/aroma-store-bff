@@ -1,0 +1,7 @@
+com\aromastore\bff\client\UsuarioClient.class
+com\aromastore\bff\client\PedidoClient.class
+com\aromastore\bff\controller\BffController.class
+com\aromastore\bff\client\ProductoClient.class
+com\aromastore\bff\dto\DashboardResponse.class
+com\aromastore\bff\dto\PedidoDetalleResponse.class
+com\aromastore\bff\AromaStoreBffApplication.class
